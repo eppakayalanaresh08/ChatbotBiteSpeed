@@ -4,6 +4,9 @@ A modern, extensible chatbot flow builder application built with React and React
 
 ![Chatbot Flow Builder](https://img.shields.io/badge/React-18.3.1-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue) ![React Flow](https://img.shields.io/badge/React%20Flow-12.8.4-green) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.1-cyan)
 
+![Chatbot Flow Builder](./src/assets/node.png) 
+ ![React save Button](./src/assets/save.png) 
+
 ## 🚀 Features
 
 ### Core Functionality
@@ -113,7 +116,7 @@ The architecture is designed for easy extension:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd chatbot-flow-builder
+   cd ChatbotBiteSpeed
    ```
 
 2. **Install dependencies**
